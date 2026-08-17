@@ -40,9 +40,9 @@ export const brand = {
 	 * Edit in Brand Studio → Colors (tones are fully customizable).
 	 */
 	theme: {
-		accent: '#BF00FF',
-		bg: '#0a0612',
-		soft: '#d8b4fe',
+		accent: '#bf00ff',
+		bg: '#211735',
+		soft: '#a46ddf',
 		deep: '#7c3aed',
 		hover: '#e879f9',
 		panel: '#0c0814',
@@ -71,46 +71,32 @@ export const brand = {
 	 * Aim ~50–60 chars titles, ~140–160 chars descriptions.
 	 */
 	seo: {
-		/** Titles ≤60 chars; descriptions ~140–160 (Google SERP display). */
-		/** Home = brand hub. Money URL /warzone-hacks/ owns the head term. */
 		homeTitle: 'Warzone Hacks | Official Windows PC Site',
-		homeDescription:
-			'Official Warzone Hacks site for Windows PC. Compare aimbot, ESP, loot ESP, radar, Cloud DMA, and AWS options — then buy a license.',
+		homeDescription: 'Official Warzone Hacks site for Windows PC. Compare aimbot, ESP, loot ESP, radar, Cloud DMA, and AWS options — then buy a license.',
 		featuresTitle: '{game} Features | {brand}',
-		featuresDescription:
-			'Everything in one {game} license for Windows PC — aimbot, ESP, loot ESP, radar, Cloud DMA, AWS, and patch updates after {antiCheat}.',
+		featuresDescription: 'Everything in one {game} license for Windows PC — aimbot, ESP, loot ESP, radar, Cloud DMA, AWS, and patch updates after {antiCheat}.',
 		storeTitle: '{game} Store | {brand}',
-		storeDescription:
-			'Monthly and lifetime {game} plans for Windows PC. Same aimbot, ESP, and radar on both. Cloud DMA and AWS options at checkout.',
+		storeDescription: 'Monthly and lifetime {game} plans for Windows PC. Same aimbot, ESP, and radar on both. Cloud DMA and AWS options at checkout.',
 		statusTitle: '{game} Status | {brand}',
-		statusDescription:
-			'Live undetected status for {brand} after {game} or {antiCheat} patches. Check here before you queue on Windows PC today.',
-		/** Money page meta — primary target for "warzone hacks". */
+		statusDescription: 'Live undetected status for {brand} after {game} or {antiCheat} patches. Check here before you queue on Windows PC today.',
 		previewTitle: 'Warzone Hacks | Undetected ESP & Aimbot',
-		previewDescription:
-			'Buy undetected warzone hacks for Call of Duty Warzone on Windows PC. Aimbot, ESP, loot ESP, radar, Cloud DMA, and AWS in one checkout.',
+		previewDescription: 'Buy undetected warzone hacks for Call of Duty Warzone on Windows PC. Aimbot, ESP, loot ESP, radar, Cloud DMA, and AWS in one checkout.',
 		setupTitle: '{game} Setup | {brand}',
-		setupDescription:
-			'Install and launch {brand} on Windows PC after checkout. Short setup steps so you can drop faster. Follow each step before your first match.',
+		setupDescription: 'Install and launch {brand} on Windows PC after checkout. Short setup steps so you can drop faster. Follow each step before your first match.',
 		supportTitle: '{game} Support | {brand}',
-		supportDescription:
-			'Get help with {brand} on Windows PC. Email {email} with your order ID for setup, delivery, or billing help after you buy.',
+		supportDescription: 'Get help with {brand} on Windows PC. Email {email} with your order ID for setup, delivery, or billing help after you buy.',
 		faqTitle: '{game} FAQ | {brand}',
-		faqDescription:
-			'Short answers about {brand} for Call of Duty: Warzone — delivery, setup, {antiCheat} updates, refunds, and Windows PC system notes before you buy.',
+		faqDescription: 'Short answers about {brand} for Call of Duty: Warzone — delivery, setup, {antiCheat} updates, refunds, and Windows PC system notes before you buy.',
 		reviewsTitle: '{brand} Reviews | Buyer Feedback',
-		reviewsDescription:
-			'Buyer reviews for {brand} — ESP, soft aim, radar, and patch updates for Call of Duty: Warzone on Windows PC. Real feedback from license holders.',
+		reviewsDescription: 'Buyer reviews for {brand} — ESP, soft aim, radar, and patch updates for Call of Duty: Warzone on Windows PC. Real feedback from license holders.',
 		blogTitle: '{game} Intel | {brand}',
-		blogDescription:
-			'Guides and notes for {game} — raid tips, ESP, aimbot, loot routes, and {antiCheat} update coverage for Windows PC players who raid.',
+		blogDescription: 'Guides and notes for {game} — raid tips, ESP, aimbot, loot routes, and {antiCheat} update coverage for Windows PC players who raid.',
 	},
 
 	/** On-page marketing copy (tokens allowed) */
 	copy: {
 		tagline: 'Undetected {primaryKeyword} — aimbot, ESP, radar, Cloud DMA, AWS',
-		summary:
-			'{brand} is an undetected {game} cheat package for Windows PC. Includes aimbot, ESP, loot ESP, and radar, with Cloud DMA and AWS options plus {antiCheat} maintenance.',
+		summary: '{brand} is an undetected {game} cheat package for Windows PC. Includes aimbot, ESP, loot ESP, and radar, with Cloud DMA and AWS options plus {antiCheat} maintenance.',
 		heroLede: 'Undetected aimbot, ESP, loot ESP, and radar for Warzone on Windows PC. Cloud DMA and AWS options.',
 		blogLabel: 'Warzone Intel',
 		ctaBuy: 'Get Access',
@@ -118,8 +104,7 @@ export const brand = {
 		featuresIntro: 'Everything included in one license for {game} on Windows PC — plus Cloud DMA and AWS options.',
 		storeIntro: 'Pick a plan. Same features on both. Cloud DMA and AWS available at checkout.',
 		statusIntro: 'Check here after a {game} or {antiCheat} patch before you queue.',
-		previewIntro:
-			'{brand} for Call of Duty Warzone — aimbot, ESP wallhack, loot ESP, radar, Cloud DMA, and AWS, with Ricochet rebuilds after patches.',
+		previewIntro: '{brand} for Call of Duty Warzone — aimbot, ESP wallhack, loot ESP, radar, Cloud DMA, and AWS, with Ricochet rebuilds after patches.',
 		setupIntro: 'Install {brand} on Windows PC after you buy. Follow these short steps.',
 		supportIntro: 'Need help with {brand}? Email {email} with your order ID.',
 		faqIntro: 'Short answers about delivery, setup, updates, and refunds.',

@@ -4,8 +4,8 @@
   "description": "Undetected warzone hacks — ESP, aimbot, and radar for PC",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#0a0612",
-  "theme_color": "#0a0612",
+  "background_color": "#211735",
+  "theme_color": "#211735",
   "icons": [
     {
       "src": "/favicon.png",
